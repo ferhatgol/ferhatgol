@@ -60,7 +60,7 @@ Yaklaşık **13 yıldır IT sektöründe** hizmet vermekteyim. Son **5 yıldır 
 ---
 
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=ferhatgol&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+![](https://github-contributor-stats.vercel.app/api?username=ferhatgol&limit=5&theme=light&combine_all_yearly_contributions=true)  
 
 ---
 
