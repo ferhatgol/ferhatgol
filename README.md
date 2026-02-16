@@ -13,8 +13,8 @@ Yaklaşık **13 yıldır IT sektöründe** hizmet vermekteyim. Son **5 yıldır 
 ---
 
 ### 🔧 Aktif Projelerim  
-- 🛒 **NivaPOS** → Market, Manav ve Perakende satış için gelişmiş POS sistemi  
-- 🍽️ **GarsonGO** → Kafe, Restoran ve Barlar için Adisyon Sistemi  
+- 🛒 **EsnafPOS** → Market, Manav ve Perakende satış için gelişmiş POS sistemi  
+- 🍽️ **Garsonum** → Kafe, Restoran ve Barlar için Adisyon Sistemi  
 - 🦷 **Diş Kliniği Sistemi** → Klinikler için hasta ve randevu yönetimi çözümü  
 - 🛠️ **B2B Yedek Parça Platformu** → Yedek parça firmalarına özel iş yönetim sistemi  
 
